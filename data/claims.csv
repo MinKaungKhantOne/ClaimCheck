@@ -1,0 +1,36 @@
+claim_id,claim_text,evidence_id,label
+CLM_001,Neil Armstrong and Buzz Aldrin landed on the Moon in July 1969 aboard the Apollo 11 Lunar Module.,DOC_001,SUPPORTS
+CLM_002,The Apollo 11 moon landing occurred in December 1985 commanded by John Glenn.,DOC_001,REFUTES
+CLM_003,The Eiffel Tower was constructed between 1887 and 1889 as the entrance arch to the 1889 World's Fair in Paris.,DOC_002,SUPPORTS
+CLM_004,The Eiffel Tower was designed by Leonardo da Vinci and built entirely out of solid marble in 1600.,DOC_002,REFUTES
+CLM_005,Plant photosynthesis takes place in chloroplasts and converts light energy into chemical energy.,DOC_003,SUPPORTS
+CLM_006,Photosynthesis is an artificial industrial process invented in 2005 to generate nuclear fission.,DOC_003,REFUTES
+CLM_007,Guido van Rossum created Python and released it in 1991 with a design emphasizing readable code.,DOC_004,SUPPORTS
+CLM_008,Python was created by Microsoft in 2018 as a low-level assembly language.,DOC_004,REFUTES
+CLM_009,Albert Einstein published his theory of general relativity in 1915 describing gravity as spacetime curvature.,DOC_005,SUPPORTS
+CLM_010,Isaac Newton published the general theory of relativity in 1687 disproving gravitational curvature.,DOC_005,REFUTES
+CLM_011,The Great Wall of China is a fortification system whose construction began during the Qin dynasty.,DOC_006,SUPPORTS
+CLM_012,The Great Wall of China was constructed along the southern border of Australia in the 19th century.,DOC_006,REFUTES
+CLM_013,The double helix structure of DNA was discovered in 1953 with key contributions from Watson Crick and Franklin.,DOC_007,SUPPORTS
+CLM_014,DNA double helix was invented by Thomas Edison in 1879 inside an electric light bulb laboratory.,DOC_007,REFUTES
+CLM_015,Alan Turing introduced the Turing machine in 1936 as a foundational mathematical model of computation.,DOC_008,SUPPORTS
+CLM_016,Mount Everest is Earth's highest mountain above sea level located along the China-Nepal border.,DOC_009,SUPPORTS
+CLM_017,Mount Everest is an active submarine volcano located in the Atlantic Ocean below sea level.,DOC_009,REFUTES
+CLM_018,Alexander Fleming discovered penicillin in 1928 after observing mold destroying bacteria in a culture dish.,DOC_010,SUPPORTS
+CLM_019,Penicillin was first synthesized as an artificial plastic polymer in 2012 by chemical engineers.,DOC_010,REFUTES
+CLM_020,The Transformer architecture was introduced in 2017 relying on self-attention mechanisms in deep learning.,DOC_011,SUPPORTS
+CLM_021,The speed of light in vacuum is approximately 300000 kilometers per second.,DOC_012,SUPPORTS
+CLM_022,The speed of light in vacuum is approximately 50 kilometers per hour.,DOC_012,REFUTES
+CLM_023,The human heart contains four chambers comprising two upper atria and two lower ventricles.,DOC_013,SUPPORTS
+CLM_024,Tim Berners-Lee invented the World Wide Web in 1989 while working as a scientist at CERN.,DOC_014,SUPPORTS
+CLM_025,The Hubble Space Telescope was launched in 1990 into low Earth orbit aboard Discovery.,DOC_015,SUPPORTS
+CLM_026,Deep Blue defeated World Chess Champion Garry Kasparov in a match in May 1997.,DOC_017,SUPPORTS
+CLM_027,CRISPR-Cas9 genome editing was adapted from natural bacterial defense mechanisms against viruses.,DOC_018,SUPPORTS
+CLM_028,Saturn's ring system is primarily composed of water ice with some rocky debris particles.,DOC_019,SUPPORTS
+CLM_029,The point-contact transistor was invented at Bell Labs in December 1947.,DOC_020,SUPPORTS
+CLM_030,Rosalind Franklin won the Olympic gold medal in swimming at the 1952 Summer Olympics.,NONE,NOT ENOUGH INFO
+CLM_031,Guido van Rossum won the Tour de France cycling competition three consecutive times.,NONE,NOT ENOUGH INFO
+CLM_032,Extraterrestrial microbial life was definitively discovered in subsurface oceans of Europa in 2023.,NONE,NOT ENOUGH INFO
+CLM_033,Alexander Fleming was an avid tennis player who designed tournament rackets in Edinburgh.,NONE,NOT ENOUGH INFO
+CLM_034,Tim Berners-Lee authored a best-selling science fiction trilogy about interplanetary teleportation.,NONE,NOT ENOUGH INFO
+CLM_035,Albert Einstein played the saxophone in a jazz quartet during his tenure in Berlin.,NONE,NOT ENOUGH INFO
